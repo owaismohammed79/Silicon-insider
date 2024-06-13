@@ -1,0 +1,21 @@
+.sidebar {
+    height: 800px;
+    width: 200px;
+    position: fixed;
+    padding-top: 80px;
+    top: 0;
+    left: 0;
+    text-align: center;
+    color: azure;
+    border-right:10px solid rgb(138,203,136);
+    background:black;
+    overflow-x: hidden;
+    transition: 0.5s;
+  }
+  .logo{
+    height: 140px;
+    width: 160px;
+    margin-left: 13px;
+    background-image:url("./images/logo.png") ;
+    background-size: cover;
+  }

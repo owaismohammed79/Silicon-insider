@@ -1,0 +1,55 @@
+img{
+    max-width: 100%;
+}
+
+.card{
+    width: 75%;
+    margin: 0 5rem;
+    margin-left: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1rem;
+    max-height: 300px;
+    color: #fff;
+}
+
+.card img{
+    aspect-ratio: 16/9;
+}
+
+.line {
+    width: 77%; 
+    position: relative;
+    left: 50px;
+    height: 2px;
+    background-color: #8acb88;
+}
+
+.card .title{
+    width: 30%;
+    text-decoration: none;
+    color: white;
+}
+
+.title:visited{
+    color: white;
+}
+
+.title:hover, .title:focus{
+    color: rgb(5, 219, 247);
+}
+
+.card .desc{
+    width: 55%;
+    padding: 1em;
+}
+
+.card-line{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+}
+
