@@ -19,3 +19,11 @@
     background-image:url("./images/logo.png") ;
     background-size: cover;
   }
+
+  .sec a{
+    text-decoration: none;
+  }
+
+  .sec{
+    padding: 0.1rem;
+  }

@@ -4,11 +4,11 @@ function Sidebar() {
     <div className='sidebar'>
         <div className='logo'></div>
         <ul>
-        <li><a href='#sec1'>HOME</a></li>
-        <li><a href='#sec2'>LATEST</a></li>
-        <li><a href='#sec3'>AI</a></li>
-        <li><a href='#sec4'>STARTUPS</a></li>
-        <li><a href='#sec5'>ABOUT US</a></li>
+        <li className='sec'><a href='#sec1'>HOME</a></li>
+        <li className='sec'><a href='#sec2'>LATEST</a></li>
+        <li className='sec'><a href='#sec3'>AI</a></li>
+        <li className='sec'><a href='#sec4'>STARTUPS</a></li>
+        <li className='sec'><a href='#sec5'>ABOUT US</a></li>
         </ul>
     </div>
     
