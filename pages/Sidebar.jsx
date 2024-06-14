@@ -5,10 +5,10 @@ function Sidebar() {
         <div className='logo'></div>
         <ul>
         <li><a href='#sec1'>HOME</a></li>
-        <li><a href='#sec2'>PAGE2</a></li>
-        <li><a href='#sec3'>PAGE3</a></li>
-        <li><a href='#sec4'>PAGE4</a></li>
-        <li><a href='#sec5'>FOOTER</a></li>
+        <li><a href='#sec2'>LATEST</a></li>
+        <li><a href='#sec3'>AI</a></li>
+        <li><a href='#sec4'>STARTUPS</a></li>
+        <li><a href='#sec5'>ABOUT US</a></li>
         </ul>
     </div>
     

@@ -10,27 +10,7 @@ li a:hover{
 li a{
     font-size: 20px;
     color: azure;
-    margin:20px;
+    margin:40px;
     font-family:       Verdana,Tahoma, sans-serif;
   
-}
-section{
-    height: 100vh;
-    width: 100vw;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-#sec2{
-    background: rgb(243, 72, 72);
-}
-#sec3{
-    background:violet;
-}
-#sec4{
-    background: yellow;
-}
-#sec5{
-    background: rgb(5, 110, 10);
 }
