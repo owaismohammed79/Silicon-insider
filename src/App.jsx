@@ -15,7 +15,11 @@ function App() {
         <LandingPg3 />
         <LandingPg4 />
       </div>
+      
+      <section id='sec5'>
       <Footer />
+      </section>
+      
     </div>  
    
   )
